@@ -1,0 +1,9 @@
+#fileno{
+    background-color:#222233;
+    color: #AACCFF;
+    border-radius: 5px;
+    border:inset 6px rgb(177, 154, 177);
+}
+input[type="file"]{
+    color: #929356;
+}
